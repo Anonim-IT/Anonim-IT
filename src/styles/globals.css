@@ -5,3 +5,11 @@
 * {
 	@apply text-white;
 }
+
+.circle {
+	background: linear-gradient(180deg, rgba(27, 24, 152, 0.496) 0%, rgba(12, 126, 208, 0.8) 99.99%, rgba(196, 196, 196, 0) 100%);
+	width: 371.52px;
+	height: 371.52px;
+	filter: blur(125px);
+	transform: rotate(115.24deg);
+}
