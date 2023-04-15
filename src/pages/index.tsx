@@ -1,5 +1,6 @@
 import { Karla } from "next/font/google";
 import Link from "next/link";
+import Layout from "@/components/layout";
 
 const karla = Karla({
   weight: "700",
@@ -8,33 +9,7 @@ const karla = Karla({
 
 export default function Home() {
   return (
-    <main className="flex flex-col min-h-screen min-w-screen">
-      <section className="bg-[#04041A] relative min-h-screen min-w-screen">
-        <section className="flex min-h-screen min-w-screen">
-          <div className="circle"></div>
-          <div className="circle"></div>
-        </section>
-        <section className="flex flex-col min-h-screen min-w-full items-center absolute top-0">
-          <ul className="flex min-w-screen justify-center gap-[59px] mt-[56px]">
-            <li>
-              <Link href="">Home</Link>
-            </li>
-            <li>
-              <Link href="">Download</Link>
-            </li>
-            <li>
-              <Link href="">Pricing</Link>
-            </li>
-            <li>
-              <Link href="">Location</Link>
-            </li>
-            <li>
-              <Link href="">FAQ</Link>
-            </li>
-            <li>
-              <Link href="">Company</Link>
-            </li>
-          </ul>
+      <Layout>
           <div className={`text-5xl ${karla.className} mt-[136px]`}>
             Anonim IT
           </div>
@@ -45,8 +20,6 @@ export default function Home() {
           <button className="bg-[#0A92DD] py-[10px] px-[14px] rounded-[40px] mt-[15px]">
             <Link href="">Наш Discord</Link>
           </button>
-        </section>
-      </section>
-    </main>
+      </Layout>
   );
 }
