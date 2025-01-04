@@ -1,38 +1,31 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+my+dear+friend.;If+you+are+reading+this+profile.;Then+it+appealed+to+you+in+some+way.;Then+welcome.)](https://git.io/typing-svg)
 
-## Getting Started
+### Я просто человек который просто любит разбираться с пк)
 
-First, run the development server:
+## Обо мне:
+             Name - Anonim 
+             Age - 22.
+             Languages - Russian and English and Serbskiy.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Язык программирования:
+  [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+## Моя операционная система:
+[![Arch Linux](https://cdn.jsdelivr.net/gh/archlinux/archlinux-artwork@master/logos/archlinux-logo-dark-90dpi.png)](https://archlinux.org/)
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+ 
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+## My statistics:
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Anonim-IT&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anonim-IT&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-## Learn More
+## Статус моего профиля
 
-To learn more about Next.js, take a look at the following resources:
+[![Дискорд статус](https://lanyard.cnrad.dev/api/1220814806169288878)](https://discord.com/users/1220814806169288878)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+### Виджет дискорд сервера:
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+[![Discord Виджет](https://img.shields.io/discord/1033161547071094864?label=Discord&logo=discord&style=for-the-badge)](https://discord.gg/pCEn5hacEJ)
