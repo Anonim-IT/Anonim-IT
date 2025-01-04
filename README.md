@@ -4,7 +4,7 @@
 
 ## Обо мне:
              Name - Anonim 
-             Age - 22.
+             Age - 23.
              Languages - Russian and English and Serbskiy.
 
 
@@ -12,7 +12,7 @@
   [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
 
 ## Моя операционная система:
-[![Arch Linux](https://cdn.jsdelivr.net/gh/archlinux/archlinux-artwork@master/logos/archlinux-logo-dark-90dpi.png)](https://archlinux.org/)
+[![Manjaro](https://cdn.jsdelivr.net/gh/archlinux/archlinux-artwork@master/logos/archlinux-logo-dark-90dpi.png)](https://manjaro.org/)
 
  
 
