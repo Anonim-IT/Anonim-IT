@@ -23,9 +23,4 @@
 
 ## Статус моего профиля
 
-[![Дискорд статус](https://lanyard.cnrad.dev/api/1220814806169288878)](https://discord.com/users/1220814806169288878)
-
-
-### Виджет дискорд сервера:
-
-[![Discord Виджет](https://img.shields.io/discord/1033161547071094864?label=Discord&logo=discord&style=for-the-badge)](https://discord.gg/pCEn5hacEJ)
+Официальный проект Hacker Project 
