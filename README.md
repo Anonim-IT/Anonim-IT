@@ -16,9 +16,13 @@
   [![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
 
 ## Моя операционная система:
-[![Cachy OS](https://img.shields.io/badge/Cachy%20OS-1793D1?style=for-the-badge&logo=linux&logoColor=white)](https://cachyos.org/)
+[![CachyOS](https://img.shields.io/badge/CachyOS-1793D1?style=for-the-badge&logo=linux&logoColor=white)](https://cachyos.org/)
 
  
+
+## График активности (коммиты по месяцам):
+
+![GitHub Stats Chart](https://raw.githubusercontent.com/Anonim-IT/Anonim-IT/main/public/github-stats.svg)
 
 ## Моя статистика:
 
@@ -37,7 +41,18 @@
 | **ОЗУ** | 16 GB |
 | **Накопитель** | Samsung MZVLB512HBJQ-000L7 (512 GB NVMe SSD) |
 | **Графика** | Intel UHD Graphics 620 (WhiskeyLake-U) |
-| **Операционная система** | Cechy OS (ядро 7.0.9-1-cachyos) |
+| **Операционная система** | CachyOS (ядро 7.0.9-1-cachyos) |
+
+## Полная статистика GitHub
+
+| Показатель | Значение |
+|-----------|---------|
+| **Всего коммитов** | 390 |
+| **Репозиториев** | 12 |
+| **Активных репозиториев** | 3 |
+| **Используемые языки** | JavaScript, TypeScript, HTML, Shell, Python |
+| **Дата регистрации** | 2021 |
+| **Последняя активность** | Май 2026 |
 
 ## Статус моего профиля
 
