@@ -16,7 +16,7 @@
   [![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
 
 ## Моя операционная система:
-[![Cechy OS](https://img.shields.io/badge/Cechy%20OS-1793D1?style=for-the-badge&logo=linux&logoColor=white)](https://ceshyos.org/)
+[![Cachy OS](https://img.shields.io/badge/Cachy%20OS-1793D1?style=for-the-badge&logo=linux&logoColor=white)](https://cashyos.org/)
 
  
 
